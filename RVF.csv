@@ -76,7 +76,7 @@ C3061;Asia;Thailand;Material_de_oficina;Online;Media;306187951;6674;651;525;4346
 C3872;Asia;Taiwan;Frutas;Offline;Alta;387219417;5685;9;7;53041;39340;2019
 C8834;Asia;India;Verduras;Online;Baja;883492887;4033;154;91;621324;366721;2020
 C6950;Europa;Romania;Bebida;Offline;Baja;695057189;1723;47;32;81756;54774;2019
-C1422;Australia_y_Oceania;East__Timor;Cosmeticos;Online;Baja;142273652;790;437;263;345388;208031;2022
+C1422;Australia_y_Oceania;East_Timor;Cosmeticos;Online;Baja;142273652;790;437;263;345388;208031;2022
 C5158;Europa;Bosnia__and_Herzegovina;Cereales;Online;Baja;515816104;303;206;117;62327;35484;2017
 C9266;Europa;Ireland;Cuidado_personal;Offline;Baja;926670873;1359;82;57;111071;77015;2022
 C5561;Europa;Croatia;Domestico;Online;Baja;556136786;2089;668;503;1396016;1049806;2020
@@ -159,7 +159,7 @@ C8429;Africa;Algeria;Material_de_oficina;Offline;Media;842967498;1670;651;525;10
 C8880;Africa;Botswana;Cuidado_personal;Online;Critica;888059937;5525;82;57;451558;313102;2022
 C8258;Africa;Seychelles_;Domestico;Offline;Media;825884616;6466;668;503;4321034;3249424;2018
 C8924;Africa;The_Gambia;Material_de_oficina;Online;Alta;892427861;8091;651;525;5268940;4247451;2017
-C4939;Africa;Guinea-Bissau;Material_de_oficina;Online;Baja;493988502;1030;651;525;670746;540709;2020
+C4939;Africa;Guinea_Bissau;Material_de_oficina;Online;Baja;493988502;1030;651;525;670746;540709;2020
 C4571;Africa;Pakistan;Verduras;Offline;Baja;457177865;7945;154;91;1224007;722439;2017
 C7789;Africa;Mauritania;Carnicos;Online;Media;778919780;8527;422;365;3597456;3109712;2019
 C1764;Asia;Thailand;Material_de_oficina;Online;Alta;176450574;4501;651;525;2931096;2362845;2023
@@ -752,7 +752,7 @@ C8219;Africa;Swaziland;Cosmeticos;Offline;Critica;821956574;4071;437;263;1779841
 C5279;Europa;Vatican_City;Verduras;Offline;Alta;527969729;6830;154;91;1052230;621052;2019
 C6791;Asia;Thailand;Bebida;Online;Baja;679107701;1915;47;32;90867;60878;2018
 C9066;Europa;Georgia;Verduras;Online;Alta;906669318;2454;154;91;378063;223142;2022
-C4622;Africa;Guinea-Bissau;Snacks;Online;Baja;462265908;3610;153;97;550814;351758;2019
+C4622;Africa;Guinea_Bissau;Snacks;Online;Baja;462265908;3610;153;97;550814;351758;2019
 C4678;Europa;Estonia;Snacks;Online;Baja;467821300;7573;153;97;1155488;737913;2018
 C7655;Africa;Swaziland;Cosmeticos;Offline;Alta;765571820;8569;437;263;3746367;2256475;2021
 C3680;Centroamerica_y_Caribe;Trinidad_and_Tobago;Cosmeticos;Online;Critica;368066298;7852;437;263;3432894;2067667;2017
@@ -817,7 +817,7 @@ C7802;Africa;Tanzania;Ropa;Online;Critica;780243289;183;109;36;19998;6559;2023
 C9709;Africa;Togo;Cuidado_personal;Online;Media;970932042;9222;82;57;753714;522611;2020
 C5911;Australia_y_Oceania;Marshall_Islands;Carnicos;Offline;Alta;591169440;9029;422;365;3809245;3292786;2018
 C6925;Centroamerica_y_Caribe;Cuba;Domestico;Online;Baja;692566812;4765;668;503;3184307;2394603;2020
-C5970;Africa;Guinea-Bissau;Material_de_oficina;Online;Baja;597047984;8621;651;525;5614081;4525680;2017
+C5970;Africa;Guinea_Bissau;Material_de_oficina;Online;Baja;597047984;8621;651;525;5614081;4525680;2017
 C1468;Europa;Georgia;Bebida;Online;Alta;146849286;4822;47;32;228804;153291;2019
 C1545;Centroamerica_y_Caribe;The_Bahamas;Frutas;Offline;Alta;154519546;4622;9;7;43123;31984;2020
 C1529;Europa;Ukraine;Frutas;Offline;Critica;152920091;1308;9;7;12204;9051;2018
@@ -921,7 +921,7 @@ C3380;Africa;Cote_d'Ivoire;Cuidado_personal;Online;Alta;338088214;6670;82;57;545
 C7196;Africa;Rwanda;Cereales;Offline;Media;719609487;7293;206;117;1500170;854083;2017
 C4920;Norteamerica;Mexico;Verduras;Online;Media;492007529;4816;154;91;741953;437919;2017
 C8193;Australia_y_Oceania;Tuvalu;Verduras;Offline;Critica;819393670;5651;154;91;870593;513845;2022
-C2361;Africa;Guinea-Bissau;Frutas;Offline;Critica;236191737;3239;9;7;30220;22414;2017
+C2361;Africa;Guinea_Bissau;Frutas;Offline;Critica;236191737;3239;9;7;30220;22414;2017
 C4971;Europa;Greece;Cereales;Online;Critica;497138059;3054;206;117;628208;357654;2017
 C7272;Centroamerica_y_Caribe;Haiti;Bebida;Online;Baja;727281463;7601;47;32;360667;241636;2017
 C5719;Africa;Yemen;Carnicos;Online;Media;571983277;1417;422;365;597818;516766;2017
@@ -987,7 +987,7 @@ C4085;Australia_y_Oceania;Australia;Snacks;Offline;Critica;408538901;4594;153;97
 C6067;Africa;Nigeria;Cosmeticos;Online;Baja;606725823;2509;437;263;1096935;660695;2019
 C1474;Europa;Spain;Ropa;Offline;Critica;147449672;2489;109;36;271998;89206;2021
 C7854;Europa;Hungary;Carnicos;Online;Media;785446774;10;422;365;4219;3647;2018
-C7457;Europa;Bosnia__and_Herzegovina;Verduras;Offline;Baja;745765960;7575;154;91;1167005;688795;2018
+C7457;Europa;Bosnia_and_Herzegovina;Verduras;Offline;Baja;745765960;7575;154;91;1167005;688795;2018
 C5737;Asia;South_Korea;Cosmeticos;Online;Critica;573768556;9721;437;263;4250021;2559831;2019
 C8851;Africa;The_Gambia;Snacks;Offline;Baja;885128390;8015;153;97;1222929;780982;2020
 C1158;Europa;Norway;Bebida;Online;Baja;115831792;6056;47;32;287357;192520;2022
