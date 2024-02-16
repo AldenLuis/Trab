@@ -1,4 +1,4 @@
-ID_Cliente;Zona;Pais;Tipo_de_producto;Canal_de_venta;Prioridad;ID_Pedido;Unidades;Precio_Unitario;Coste_unitario;Importe_venta_total;Importe_Coste_total;Año
+ID_Cliente;Zona;Pais;Tipo_de_producto;Canal_de_venta;Prioridad;ID_Pedido;Unidades;Precio_Unitario;Coste_unitario;Importe_venta_total;Importe_Coste_total;Fecha
 C2421;Europa;United_Kingdom;Snacks;Offline;Critica;242113196;5530;153;97;843767;538843;2023
 C1908;Europa;Malta;Carnicos;Online;Alta;190800607;994;422;365;419359;362502;2021
 C7652;Australia_y_Oceania;Marshall_Islands;Cereales;Online;Critica;765228068;6845;206;117;1408017;801618;2023
